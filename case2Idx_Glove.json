@@ -1,0 +1,1 @@
+{"numeric": 0, "allLower": 1, "allUpper": 2, "initialUpper": 3, "other": 4, "mainly_numeric": 5, "contains_digit": 6, "PADDING_TOKEN": 7}
